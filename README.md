@@ -241,7 +241,7 @@
               <p><i class="fas fa-clock"></i> Monday - Friday: 9:00 AM - 5:00 PM</p>
               <p><i class="fas fa-clock"></i> Saturday: 10:00 AM - 3:00 PM</p>
               <p><i class="fas fa-clock"></i> Sunday: Closed</p>
-              <p><i class="fas fa-globe"></i> www.codingnepalweb.com</p>
+              <p><i class="fas fa-globe"></i> www..com</p>
             </div>          
           </div>
           <div class="col form">
